@@ -1,12 +1,14 @@
 # GradesSystem
 
-A comprehensive C# application designed for managing student grades, with functionalities like importing, calculating, and analyzing performance metrics.
+A nice and basic C# application for managing and analyzing student grades.
+This tool allows users to view, edit, and track student performance across multiple classes with ease.
 
 ## 📋 Features
-- **Grade Importing:** Import grades from pre-defined structured files.
-- **Performance Analysis:** Calculate average, median, and standard deviation of grades.
-- **Report Generation:** Generate and display detailed performance reports for students.
+- **Class Management:** Import and manage multiple classes, providing a holistic view of student performance across different subjects.
+- **Grade Management:** Import grades, view and edit them for individual students or entire classes.
+- **Bonus Factor:** Apply bonus factors to grades for additional adjustments.
 - **User Interface:** Intuitive and user-friendly interface for easy navigation and operation.
+- **Performance Analysis:** Calculate average grades for individual students or entire classes.
 
 ## 🚀 Getting Started
 
@@ -29,7 +31,7 @@ A comprehensive C# application designed for managing student grades, with functi
 ## 📊 Usage
 1. Import Grades: Load student grade data using provided sample files or your own structured files.
 2. Calculate Metrics: Use the UI to compute averages, medians, and other statistics.
-3. Generate Reports: View detailed performance summaries for each student or group.
+3. Edit Reports: change grades with ease, and save your changes.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
