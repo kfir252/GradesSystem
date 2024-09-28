@@ -48,3 +48,4 @@ C:\Users\kfirl\Desktop\gradesSystem\gradesSystem\obj\Debug\net8.0-windows\refint
 C:\Users\kfirl\Desktop\gradesSystem\gradesSystem\obj\Debug\net8.0-windows\gradesSystem.pdb
 C:\Users\kfirl\Desktop\gradesSystem\gradesSystem\obj\Debug\net8.0-windows\gradesSystem.genruntimeconfig.cache
 C:\Users\kfirl\Desktop\gradesSystem\gradesSystem\obj\Debug\net8.0-windows\ref\gradesSystem.dll
+C:\Users\kfirl\Desktop\gradesSystem\gradesSystem\obj\Debug\net8.0-windows\gradesSystem.sourcelink.json
