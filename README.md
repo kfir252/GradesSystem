@@ -35,6 +35,3 @@ This tool allows users to view, edit, and track student performance across multi
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ✨ Acknowledgements
-Special thanks to contributors and the open-source community for their valuable resources and support.
