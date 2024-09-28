@@ -34,4 +34,4 @@ This tool allows users to view, edit, and track student performance across multi
 3. Edit Reports: change grades with ease, and save your changes.
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
